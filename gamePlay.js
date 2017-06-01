@@ -62,4 +62,4 @@ let game = new War([thisPlayer, thisPlayer2])
 console.log(game)
 game.playGame()
 
-module.exports.war = war
+module.exports = War
